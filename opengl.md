@@ -283,7 +283,7 @@ renderer:渲染
 	line_strip,线带,没有成圆环
 	line_loop,线环
 
-![](img/02.bmp)
+![](02.bmp)
 
 3.三角形
 	triangles:三角形集
@@ -309,5 +309,5 @@ renderer:渲染
 **设置3D画布**
 下图把可视区域看成是三维画布,可使用OpenGL命令和函数进行绘图
 
-![](img\01.png)
+![](01.png)
 
